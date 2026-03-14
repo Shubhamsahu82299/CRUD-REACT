@@ -1,3 +1,3 @@
 CRUD FORM USING REACT 
-LINK OF WEBSITE:
+LINK WEBSITE:
 https://shubhamsahu82299.github.io/CRUD-REACT/
